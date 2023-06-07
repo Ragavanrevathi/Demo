@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="RTM_TRANSLATION" source-language="en-US" target-language="de-DE">
+    <body>
+      <trans-unit datatype="html" id="1">
+        <source>Agent Discounts</source>
+        <target>Ermäßigungen für Mitarbeiter</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="2">
+        <source>Application</source>
+        <target>Anwendung</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="3">
+        <source>Advertising and Sales Restrictions</source>
+        <target>Werbe- und Verkaufsbeschränkungen</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="5">
+        <source>Eligibility</source>
+        <target>Gültigkeit</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="6">
+        <source>Footer (the text below fare rules)</source>
+        <target>Fußzeile (der Text unter den Tarifbestimmungen)</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="7">
+        <source>Groups</source>
+        <target>Gruppen</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="8">
+        <source>Header (the text above fare rules)</source>
+        <target>Kopfzeile (der Text über den Tarifregeln)</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="9">
+        <source>Min/Max Stay</source>
+        <target>Min./Max. Aufenthalt</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="10">
+        <source>Negotiated Fares</source>
+        <target>Ausgehandelte Tarife</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="11">
+        <source>Other Discounts</source>
+        <target>Andere Ermäßigungen</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="12">
+        <source>Penalties</source>
+        <target>Änderungsgebühren</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="13">
+        <source>Routings and Permitted Combinations</source>
+        <target>Routen und zulässige Kombinationen</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="14">
+        <source>Rerouting</source>
+        <target>Umleitung</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="15">
+        <source>Bookings and Ticketing</source>
+        <target>Buchungen und Ticketing</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="16">
+        <source>Stopovers and Transfers</source>
+        <target>Zwischenstopps und Transfers</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="17">
+        <source>Tour Conductor Discounts</source>
+        <target>Ermäßigungen für Reiseleiter</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="18">
+        <source>Travel Restrictions</source>
+        <target>Reisebeschränkungen</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="19">
+        <source>Tours</source>
+        <target>Tours</target>
+      </trans-unit>
+      <trans-unit datatype="html" id="20">
+        <source>Antigua and Barbuda Ticket Tax</source>
+        <target>Antigua und Barbuda Ticket Tax</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
