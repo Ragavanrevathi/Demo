@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="RTM_TRANSLATION" source-language="en-US" target-language="ja-JP">
+    <body>
+      <trans-unit datatype="html" id="1">
+        <source>Agent Discounts</source>
+        <target>Translated</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
