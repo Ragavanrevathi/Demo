@@ -57,11 +57,7 @@
       <trans-unit datatype="html" id="15">
         <source>Bookings and Ticketing</source>
         <target>Réservations et billetterie</target>
-      </trans-unit>
-      <trans-unit datatype="html" id="16">
-        <source>Stopovers and Transfers</source>
-        <target>Escales et transferts</target>
-      </trans-unit>
+      </trans-unit> 
     </body>
   </file>
 </xliff>
