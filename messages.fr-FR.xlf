@@ -62,10 +62,6 @@
         <source>Stopovers and Transfers</source>
         <target>Escales et transferts</target>
       </trans-unit>
-      <trans-unit datatype="html" id="17">
-        <source>Tour Conductor Discounts</source>
-        <target>Réductions pour responsable du voyage</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>
