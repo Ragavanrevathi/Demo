@@ -54,10 +54,6 @@
         <source>Rerouting</source>
         <target>Réacheminement</target>
       </trans-unit>
-      <trans-unit datatype="html" id="15">
-        <source>Bookings and Ticketing</source>
-        <target>Réservations et billetterie</target>
-      </trans-unit> 
     </body>
   </file>
 </xliff>
