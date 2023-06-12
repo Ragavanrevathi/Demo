@@ -66,18 +66,6 @@
         <source>Tour Conductor Discounts</source>
         <target>Réductions pour responsable du voyage</target>
       </trans-unit>
-      <trans-unit datatype="html" id="18">
-        <source>Travel Restrictions</source>
-        <target>Conditions de voyage</target>
-      </trans-unit>
-      <trans-unit datatype="html" id="19">
-        <source>Tours</source>
-        <target>Circuits</target>
-      </trans-unit>
-      <trans-unit datatype="html" id="20">
-        <source>Antigua and Barbuda Ticket Tax</source>
-        <target>Taxe sur les billets d'Antigua-et-Barbuda</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>
