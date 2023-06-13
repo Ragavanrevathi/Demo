@@ -3,7 +3,7 @@
   <file original="RTM_TRANSLATION" source-language="en-US" target-language="fr-FR">
     <body>
       <trans-unit datatype="html" id="1">
-        <source>Agent Discounts</source>
+        <source>Agen Discounts</source>
         <target>Réductions Agent</target>
       </trans-unit>
       <trans-unit datatype="html" id="2">
@@ -49,10 +49,6 @@
       <trans-unit datatype="html" id="13">
         <source>Routings and Permitted Combinations</source>
         <target>Itinéraires et combinaisons autorisés</target>
-      </trans-unit>
-      <trans-unit datatype="html" id="14">
-        <source>Rerouting</source>
-        <target>Réacheminement</target>
       </trans-unit>
     </body>
   </file>
