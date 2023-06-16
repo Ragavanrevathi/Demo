@@ -3,7 +3,7 @@
   <file original="RTM_TRANSLATION" source-language="en-US" target-language="zh-CN">
     <body>
       <trans-unit datatype="html" id="1">
-        <source>Agent Discounts</source>
+        <source>Agent Discunts</source>
         <target>代理折扣</target>
       </trans-unit>
       <trans-unit datatype="html" id="2">
