@@ -3,8 +3,8 @@
   <file original="RTM_TRANSLATION" source-language="en-US" target-language="fr-FR">
     <body>
       <trans-unit datatype="html" id="1">
-        <source>Agent Discount</source>
-        <target>Réductions Agent</target>
+        <source>Agent Discounts</source>
+        <target>Réductions Agents</target>
       </trans-unit>
       <trans-unit datatype="html" id="2">
         <source>Application</source>
